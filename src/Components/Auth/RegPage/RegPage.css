@@ -1,0 +1,15 @@
+.reg-form{
+    margin: 100px auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    padding: 20px 30px;
+
+    /* width: 300px;
+    height: 200px; */
+
+    background-color: rgb(49, 105, 39);
+}
